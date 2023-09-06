@@ -1,2 +1,3 @@
 My file
-Merging is bad
+Merging is bad, Alex shouldn't steal my file
+
