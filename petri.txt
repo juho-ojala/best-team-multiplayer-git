@@ -1,1 +1,2 @@
 My file
+Merging is bad
